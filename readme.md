@@ -5,7 +5,7 @@
 #### By Ron Craig (https://github.com/r-craig73) & David Lewis
 
 ## Description
-#### An Epicodus lesson 02/07/2018: Create a script that lets a user enter an amount of cents and shows the smallest number of quarters, dimes, nickels, and pennies needed to make that change.
+#### An Epicodus lesson 02/07/2018: Create a script that lets a user enter an amount of change in cents and shows the smallest number of quarters, dimes, nickels, and pennies needed to make that change.
 
 
 #### Coin Combinations Case Specs
@@ -37,6 +37,9 @@
 
 ### Run rspec in the terminal's home directory path
 * `numbers_to_words $ rspec`
+
+### Run the program using the following command in the terminal's home directory path
+* `number_to_words $ ruby lib/coin_combination.rb`
 
 ## Technologies Used
 * Ruby
